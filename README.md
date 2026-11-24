@@ -78,5 +78,9 @@ This project is for educational purposes only. It is not medical advice.
 Always consult a healthcare professional.
 
 ## Source
-Add the title, authors and citation of the research paper used here.
+Nature Reviews Diseases Primers volume 3 article number 17016 (2017)
 The paper is not included in this repository because of copyright.
+
+Authors:
+Anastasia Katsarou1, Soffia Gudbjörnsdottir2,3, Araz Rawshani2,3, Dana Dabelea4, Ezio Bonifacio5, Barbara J. Anderson6, Laura M. Jacobsen7, Desmond A. Schatz7 and Åke Lernmark1
+Correspondence to Å.L. Department of Clinical Sciences, Lund University, Skåne University Hospital, Jan Waldenströms gata 35, 20502 Malmö, Sweden.

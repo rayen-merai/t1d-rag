@@ -23,7 +23,7 @@ and answers in French, with page citations.
 
 ## Setup
 ```bash
-git clone https://github.com/<your-username>/t1d-rag.git
+git clone https://github.com/rayen-merai/t1d-rag.git
 cd t1d-rag
 
 python -m venv venv
